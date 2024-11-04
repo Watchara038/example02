@@ -2,6 +2,11 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1{
+  font-size : 3rem;
+  color: red;
+}
 body {
   font-family: Arial, sans-serif;
 }
